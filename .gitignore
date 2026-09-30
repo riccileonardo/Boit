@@ -1,0 +1,22 @@
+.env
+*.env
+
+venv/
+.venv/
+env/
+ENV/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.log
+*.tmp
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+# ranking_voz.json
